@@ -9,9 +9,9 @@
 - 📞 Caso queira me contatar, o link do meu Linkedin está no final da página!
 
 <div>
-    <a href="https://github.com/Vitor-php">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-php&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-php&layout=compact&langs_count=7&theme=tokyonight"/>
+    <a href="https://github.com/VitorFernandes-JS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorFernandes-JS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFernandes-JS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
