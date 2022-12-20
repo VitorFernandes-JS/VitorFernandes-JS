@@ -3,9 +3,9 @@
 
 ### Olá, me chamo Vitor, e sou um desbravador de tecnologias! 👾
 
-- 🏫 Esudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Tenho um bom conhecimento em: JavaScript, React Native, TypeScript e Node.JS
-- 💼 Experiência de 1 ano de programação
+- 🏫 Formado em Análise e Desenvolvimento de Sistema;
+- 🌱 Tenho um ótimo conhecimento em: JavaScript, React, React Native, TypeScript e Node.JS;
+- 💼 Cerca de 2 anos de experiência em programação;
 - 📞 Caso queira me contatar, o link do meu Linkedin está no final da página!
 
 <div>
